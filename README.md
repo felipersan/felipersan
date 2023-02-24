@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Eu sou um desenvolvedor front-end apaixonado por criar interfaces visuais atraentes e intuitivas para aplicativos web e outros projetos.  
+Eu sou um desenvolvedor full stack apaixonado por codificar soluções inovadoras e escaláveis para o mundo real.  
 
 Com mais de 1 ano de experiência, eu tenho habilidades sólidas em várias tecnologias para web que me permitem traduzir requisitos técnicos em soluções elegante e de fácil utilização. 
 
@@ -9,6 +9,9 @@ Eu sou dedicado a entregar resultados que atendam às expectativas do usuário e
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felipersan&show_icons=true&locale=en" alt="felipersan" /></p>
 
 ## 👨‍💻 Tecnologias que utilizo
+
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -24,9 +27,10 @@ Eu sou dedicado a entregar resultados que atendam às expectativas do usuário e
 
 #### Back-end :gear:
 
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ### 🎨 Css, Css in Js, bibliotecas e frameworks 🧩
 
@@ -61,7 +65,8 @@ Eu sou dedicado a entregar resultados que atendam às expectativas do usuário e
 
 ### 📖 Interessado em aprender... 👀
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 [comment]: # "..."
